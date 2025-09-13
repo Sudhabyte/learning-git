@@ -1,5 +1,5 @@
 #normal hai ye
 a=4
-b=3
+b=7
 print(a+b)
 print(a+b)
